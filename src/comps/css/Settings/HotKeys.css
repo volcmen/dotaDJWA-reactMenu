@@ -1,0 +1,55 @@
+.HotKeys {
+    background: linear-gradient(#222225, #1C1D20);
+    color: #8C9698;
+}
+
+.HotKeys-ItemsSpells {
+    display: flow-root;
+}
+
+.HotKeys-ItemsSpells button{
+    margin: 2%;
+    border: 2px solid #414A45;
+    padding: 9% 0 0 9%;
+    background-color: #2B2F30;
+    font-size: 2em;
+    color: #414A45;
+}
+
+
+.HotKeys-ItemsSpells-Abilities {
+    width: 55%;
+    float: left;
+    padding-right: 18%;
+}
+
+
+.HotKeys-ItemsSpells-Abilities-Title input{
+    display: inline;
+    margin-left: 50%;
+    margin-bottom: 2%;
+}
+
+.HotKeys-ItemsSpells-Items {
+    position: relative;
+    margin-left: 55%;
+}
+
+
+.HotKeys-ItemsSpells-Items-divInp {
+    margin-left: 45%;
+}
+
+.spellsMapping a {
+    padding: 2%;
+}
+
+
+.Key-Input {
+    background: transparent;
+    border: none;
+    padding: 9% 0 0 9%;
+    font-size: 100%;
+    color: #414A45;
+    width: 30px;
+}

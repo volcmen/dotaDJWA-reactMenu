@@ -1,0 +1,12 @@
+.Settings {
+    padding: 5% 10%;
+}
+
+.Settings-navigationMenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0E0E0E;
+    color: #eeeeee;
+}

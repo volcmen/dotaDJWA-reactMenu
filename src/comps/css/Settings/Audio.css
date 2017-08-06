@@ -1,0 +1,8 @@
+.Audio {
+    background: linear-gradient(#222225, #1C1D20);
+    color: #8C9698;
+}
+
+.Audio-Slides {
+    display: flow-root;
+}

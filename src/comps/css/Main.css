@@ -1,0 +1,59 @@
+.Main {
+    padding: 5% 10%;
+    outline-color: aqua;
+}
+
+.Main-left-block {
+    width: 350px;
+    color: #f0f0f0;
+    display: inline-block;
+    outline-color: darkorange;
+    padding: 0 2%;
+    background-color: rgba(0, 0, 0, 0.74);
+}
+
+.Main-left-block_first img {
+    width: 50px;
+    height: 50px;
+    padding-right: 4%;
+}
+
+.Main-left-block_first {
+    padding: 2%;
+}
+
+.Main-left-block_second {
+    padding: 2%;
+}
+
+
+.Main-center-blocks {
+    position: absolute;
+    display: inline-block;
+}
+
+.Main-center-blocks-top {
+    padding: 0 2%;
+    display: inline-block;
+    width: 55%;
+    columns: 3;
+}
+
+.Main-center-blocks-bot {
+    padding: 0 2%;
+    display: inline-block;
+    width: 55%;
+    columns: 3;
+}
+
+
+.Main-center-blocks img {
+    width: 300px;
+    height: 300px;
+}
+
+.Main-Bottom-block {
+    position: absolute;
+    display: inline-block;
+    padding: 30% 2%;
+}

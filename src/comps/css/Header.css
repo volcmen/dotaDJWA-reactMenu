@@ -1,0 +1,60 @@
+.Header-navigationMenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0E0E0E;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #504C4D;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, serif;
+    font-weight: bold;
+}
+
+.right{
+    float: right;
+}
+
+li .caret {
+    padding: 0;
+
+}
+
+li a:hover {
+    background-color: #200b0c;
+}
+
+li a:active {
+    background-color: #082003;
+}
+
+.fa-caret-left {
+    padding-right: 5px;
+}
+
+.fa-caret-right{
+    padding-left: 5px;
+}
+
+.fa-power-off{
+    color: #A3573A
+}
+
+.menu {
+    padding: 0 20px 0;
+}
+
+.menuLogo {
+    background-color: transparent;
+    width: 30px;
+    height: 40px;
+}
